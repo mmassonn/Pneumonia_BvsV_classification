@@ -1,4 +1,4 @@
-# Classification d'image de pneumonie d'origine batérienne vs d'origine virale
+# Classification d'image de pneumonie XRay
 
 La pneumonie est une forme d'infection respiratoire aiguë qui affecte les poumons. Les poumons sont constitués de petits sacs appelés alvéoles, qui se remplissent d'air lorsqu'une personne en bonne santé respire. Lorsqu'un individu souffre de pneumonie, les alvéoles sont remplies de pus et de liquide, ce qui rend la respiration douloureuse et limite l'apport d'oxygène.
 
