@@ -15,7 +15,7 @@ chez les nourrissons infectés par le VIH, Pneumocystis jiroveci est l'une des c
 
 L'objectif principal de cette étude est de développer un algorithme permettant de différencier les individus ne présentant pas de pneumonie de ceux en présentant. Cette analyse se fera à partir de données radiographiques (Rayons X).
 
-*Base de données* 
+**Base de données**
 
 Le jeu de données utilisée, contient des images de tomographie par cohérence optique et de radiographie thoracique validées décrites et analysées dans "CDeep learning-based classification and referral of treatable human diseases" de l'université de Californi - San Diego. Les images OCT sont divisées en un ensemble de formation et un ensemble de test de patients indépendants.
 
