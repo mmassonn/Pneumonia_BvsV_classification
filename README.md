@@ -16,8 +16,7 @@ chez les nourrissons infectés par le VIH, Pneumocystis jiroveci est l'une des c
 L'objectif principal de cette étude est de développer un algorithme permettant de différencier les individus ne présentant pas de pneumonie de ceux en présentant. Cette analyse se fera à partir de données radiographiques (Rayons X).
 
 **Base de données** 
-DOI:10.17632/rscbjbr9sj.2
 
 Le jeu de données utilisée, contient des images de tomographie par cohérence optique et de radiographie thoracique validées décrites et analysées dans "CDeep learning-based classification and referral of treatable human diseases" de l'université de Californi - San Diego. Les images OCT sont divisées en un ensemble de formation et un ensemble de test de patients indépendants.
 
-Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2
+Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2 https://data.mendeley.com/datasets/rscbjbr9sj/2
