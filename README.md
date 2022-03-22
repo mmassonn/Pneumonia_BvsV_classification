@@ -16,7 +16,7 @@ La pneumonie est selon l'Organisation Mondiale de la Santé, la principale cause
 L'objectif de ce projet est mettre en place un classificateur d'images (Rayons X) permettant de différencier un patient atteint d'une pneumonie, d'un patient non atteint. Il s'inscrit dans une démarche d'aide médicale au diagnostique mais n'ayant pas été validé par des experts, il ne doit pas être utilisé à des fins médicales.
 
 
-### Base de données ( 5856 patients)
+### Base de données ( 5856 patients )
 
 Le jeu de données utilisé, contient des images de tomographie par cohérence optique et de radiographie thoracique validées décrites et analysées dans "CDeep learning-based classification and referral of treatable human diseases" de l'université de Californi - San Diego. Les images OCT sont divisées en un ensemble de formation et un ensemble de test de patients indépendants.
 
