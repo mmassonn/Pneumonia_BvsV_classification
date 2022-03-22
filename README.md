@@ -1,4 +1,4 @@
-# Classification d'image de pneumonie XRay
+# Classification d'image de pneumonie (Rayons X)
 
 Veuillez trouver ci-dessus :
 
